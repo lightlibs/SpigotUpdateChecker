@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'org.example'
-version = '1.1.0'
+version = '1.1.1'
 
 repositories {
     mavenCentral()
@@ -14,6 +14,8 @@ repositories {
             includeGroup 'org.spigotmc'
         }
     }
+    maven { url = 'https://oss.sonatype.org/content/repositories/snapshots' }
+    maven { url = 'https://oss.sonatype.org/content/repositories/central' }
 }
 
 java {

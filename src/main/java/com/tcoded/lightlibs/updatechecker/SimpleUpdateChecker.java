@@ -1,4 +1,4 @@
-package com.tcoded.updatechecker;
+package com.tcoded.lightlibs.updatechecker;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Server;

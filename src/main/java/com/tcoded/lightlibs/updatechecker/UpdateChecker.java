@@ -1,4 +1,4 @@
-package com.tcoded.updatechecker;
+package com.tcoded.lightlibs.updatechecker;
 
 import java.io.BufferedReader;
 import java.io.IOException;
